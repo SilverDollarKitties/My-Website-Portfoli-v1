@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-Website-Portfoli-v1/static/css/main.42f2aeb4.css",
+    "main.js": "/My-Website-Portfoli-v1/static/js/main.4fe6fed2.js",
+    "static/js/787.9a5b3d0a.chunk.js": "/My-Website-Portfoli-v1/static/js/787.9a5b3d0a.chunk.js",
+    "static/media/asteroids-9135 (1).mp4": "/My-Website-Portfoli-v1/static/media/asteroids-9135 (1).99d7dcf7b7de0c1ef5a5.mp4",
+    "static/media/agile.jpg": "/My-Website-Portfoli-v1/static/media/agile.17be324c1f2e97216b1e.jpg",
+    "static/media/qa.jpg": "/My-Website-Portfoli-v1/static/media/qa.676c232de7a5aa445717.jpg",
+    "static/media/responsiveDesign.jpg": "/My-Website-Portfoli-v1/static/media/responsiveDesign.1c07709d8c1355235d4d.jpg",
+    "static/media/javascript.jpg": "/My-Website-Portfoli-v1/static/media/javascript.dae07070dddb69f8daa5.jpg",
+    "static/media/html.jpg": "/My-Website-Portfoli-v1/static/media/html.67c945dc1ec496ff7701.jpg",
+    "static/media/css.jpg": "/My-Website-Portfoli-v1/static/media/css.c1b467505ef33278915c.jpg",
+    "index.html": "/My-Website-Portfoli-v1/index.html",
+    "main.42f2aeb4.css.map": "/My-Website-Portfoli-v1/static/css/main.42f2aeb4.css.map",
+    "main.4fe6fed2.js.map": "/My-Website-Portfoli-v1/static/js/main.4fe6fed2.js.map",
+    "787.9a5b3d0a.chunk.js.map": "/My-Website-Portfoli-v1/static/js/787.9a5b3d0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f2aeb4.css",
+    "static/js/main.4fe6fed2.js"
+  ]
+}
